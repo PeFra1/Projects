@@ -18,6 +18,7 @@ applications I have tackled
 MIT
 
 This markdown page is created using a [Dillinger] service. Maybe Ill use [StackEdit](https://stackedit.io/app#) in the future...
+Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github)
 
 **Free Software, Hell Yeah!**
 
