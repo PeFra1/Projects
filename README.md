@@ -7,11 +7,15 @@ applications I have tackled as user PetarF (user ID f9bd78e3)
 
 ## Tackeled problems
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+| Description/Title | Date [y-m-d]| Status | 
+| ------ | ------ | ------ | 
+| [Amazon scraper](https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md) | 2024-12-23 | DONE | 
+| [Arduino bootloader]() | 2024-12-24 | DONE | 
+| [ffmpeg /w google cloud run function]() | 2025-01-10 | IN PROGRESS | 
+| OneDrive | plugins |  | 
+| Medium | plugins |  | 
+| Google Analytics | plugins |  | 
+And more not listed here!
 
 ## License
 
