@@ -3,15 +3,15 @@ The goal of this repository is to track my work related to the [Upwork] job post
 applications I have tackled as user PetarF (user ID f9bd78e3)
 - My work is going to be organized in folders for each job I am trying to solve
 - I will try to note the status of each application (if I have applied)
-- Fingers crossed for ✨Magic ✨ - >Money
+- Fingers crossed for ✨Magic ✨ - > Success
 
-## Tackeled problems
+## Tackled projects
 
-| Description/Title | Date [y-m-d]| Status | 
-| ------ | ------ | ------ | 
-| [Amazon scraper](https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md) | 2024-12-23 | DONE | 
-| [Arduino bootloader]() | 2024-12-24 | DONE | 
-| [ffmpeg /w google cloud run function]() | 2025-01-10 | IN PROGRESS | 
+| Description/Title |Tech stack | Date [y-m-d]| Status | 
+| ------ | ------ | ------ |  ------ | 
+| [Amazon scraper](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | Python | 2024-12-23 | APPLIED | 
+| [Arduino bootloader]() | C | 2024-12-24 | APPLIED | 
+| [ffmpeg /w google cloud run function]() | Python | 2025-01-10 | IN PROGRESS | 
 | OneDrive | plugins |  | 
 | Medium | plugins |  | 
 | Google Analytics | plugins |  | 
