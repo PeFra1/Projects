@@ -10,7 +10,7 @@ The goal of this repository is to track my work related to the projects I have t
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video]() | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
 | [Arduino Bootloader modification](https://www.upwork.com/nx/proposals/1872998257342664705) | [C/Arduino] | [Figure]() | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
 | [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | [IN PROGRESS]() | 
-| IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING]() |
+| IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING](https://gist.github.com/PeFra1/b0404eb7ad3f94c3f1b7614ca2f4395b) |
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
 | MLU Angle Calculator | [JavaScript] [GoogleSites] | [Link](https://sites.google.com/site/mluanglecalculator/angle-calculator) |  [DONE]() | 
 | ModBus Wireless Sensors | [Matlab] [Thinger.io] | ToDo |  [DONE]() | 
