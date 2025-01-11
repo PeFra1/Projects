@@ -20,7 +20,7 @@ The goal of this repository is to track my work related to the projects I have t
 | Notification Application for Online Marketing Service  | FullStack Application Ruby/Rails Postgress | ToDo |  DONE | 
 | Bluetooth e-Scooter Charger  | Electrical | ToDo |  DONE |
 
-✨And more not listed here! ✨
+✨**And more not listed here!!!** ✨
 
 ## [Upwork details](https://www.upwork.com/freelancers/~0122f809db1c461703)
 I have tackled [Upwork] job posting 
@@ -32,8 +32,6 @@ ToDO
 
 This markdown page is created using a [Dillinger] service. Maybe Ill use [StackEdit](https://stackedit.io/app#) in the future...
 Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github)
-
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
