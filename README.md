@@ -9,17 +9,17 @@ The goal of this repository is to track my work related to the projects I have t
 | ------ | ------ | ------ |  ------ | 
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video]() | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
 | [Arduino Bootloader modification](https://www.upwork.com/nx/proposals/1872998257342664705) | [C/Arduino] | [Figure]() | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
-| [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | IN PROGRESS | 
-| IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | ONGOING |
-| Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  DONE | 
-| MLU Angle Calculator | [JavaScript] [GoogleSites] | ToDo |  DONE | 
-| ModBus Wireless Sensors | [Matlab] [Thinger.io] | ToDo |  DONE | 
-| Android Barcode Scanner | [Java] | ToDo |  DONE | 
-| Android Newsletter & Game App | [Java] [SQLite] [GoogleSheets] | ToDo |  DONE | 
-| Android Widgets & Maps integration | [Java] | ToDo |  DONE | 
-| Notification Application for Online Marketing Service  | FullStack: [Ruby] [Rails] [PostgreSQL] | ToDo |  DONE | 
-| Bluetooth e-Scooter Charger  | [Autodesk] Electrical | ToDo |  DONE |
-| Falcam Stand Extender | [Autodesk] | ToDo |  DONE |
+| [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | [IN PROGRESS]() | 
+| IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING]() |
+| Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
+| MLU Angle Calculator | [JavaScript] [GoogleSites] | ToDo |  [DONE]() | 
+| ModBus Wireless Sensors | [Matlab] [Thinger.io] | ToDo |  [DONE]() | 
+| Android Barcode Scanner | [Java] | ToDo |  [DONE]() | 
+| Android Newsletter & Game App | [Java] [SQLite] [GoogleSheets] | ToDo |  [DONE]() | 
+| Android Widgets & Maps integration | [Java] | ToDo |  [DONE]() | 
+| Notification Application for Online Marketing Service  | FullStack: [Ruby] [Rails] [PostgreSQL] | ToDo |  [DONE]() | 
+| Bluetooth e-Scooter Charger  | [Autodesk] Electrical | ToDo |  [DONE]() |
+| Falcam Stand Extender | [Autodesk] | ToDo |  [DONE]() |
 
 ✨**And more not listed here!!!** ✨
 
@@ -31,7 +31,7 @@ Feel free to contact me for details.
 ## ToDo 
 - Licence
 - Implement [Git LFS](https://git-lfs.com/) for large files (videos, figures, sketches, drawings, ...)
-- Create repos for projects 
+- Create repos and details/descriptions for projects 
 
 This markdown page is created using a [Dillinger] service. Maybe Ill use [StackEdit](https://stackedit.io/app#) in the future...
 Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github)
