@@ -10,7 +10,7 @@ The goal of this repository is to track my work related to the projects I have t
 | [Amazon multithreaded scraper](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | Python | [Upwork](https://www.upwork.com/jobs/~021870212147258088337) | DONE | 
 | [Arduino bootloader modification]() | C | [Upwork](https://www.upwork.com/nx/proposals/1872998257342664705) | DONE | 
 | [ffmpeg /w google cloud run function]() | Python | [Upwork](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181/?referrer_url_path=find_work_home) | IN PROGRESS | 
-| IP radio development, setup and maintaining | Linux Shoutcast Liquidsoap PHP | [radio.fer.hr](radio.fer.hr) | ONGOING |
+| IP radio development, setup and maintaining | Linux Shoutcast Liquidsoap PHP | [radio.fer.hr](http://radio.fer.hr) | ONGOING |
 | Weather station | LabView C/Arduino Matlab SQL | ToDo |  DONE | 
 | Location Angle Calculator | JavaScript Google sites | ToDo |  DONE | 
 | ModBus Wireless Sensors | Matlab Thinger.io | ToDo |  DONE | 
