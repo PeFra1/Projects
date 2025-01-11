@@ -5,11 +5,11 @@ The goal of this repository is to track my work related to the projects I have t
 
 ## Tackled projects
 
-| Description/Title |Tech stack | Details| Status | 
+| Title/Details |Tech stack | Demo | Status | 
 | ------ | ------ | ------ |  ------ | 
-| [Amazon Multithreaded Scraper](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | [Python] | [Upwork](https://www.upwork.com/jobs/~021870212147258088337) | DONE | 
-| [Arduino Bootloader modification](https://github.com/PeFra1/arduino-bootloader) | [C/Arduino] | [Upwork](https://www.upwork.com/nx/proposals/1872998257342664705) | DONE | 
-| [ffmpeg /w Google cloud run function]() | [Python] | [Upwork](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181/?referrer_url_path=find_work_home) | IN PROGRESS | 
+| [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video]() | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
+| [Arduino Bootloader modification](https://www.upwork.com/nx/proposals/1872998257342664705) | [C/Arduino] | [Figure]() | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
+| [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | IN PROGRESS | 
 | IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | ONGOING |
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  DONE | 
 | MLU Angle Calculator | [JavaScript] [GoogleSites] | ToDo |  DONE | 
@@ -25,12 +25,12 @@ The goal of this repository is to track my work related to the projects I have t
 
 ## [Upwork details](https://www.upwork.com/freelancers/~0122f809db1c461703)
 I have tackled [Upwork] job posting 
-applications as an user [PetarF] (https://www.upwork.com/freelancers/~0122f809db1c461703).
+applications as an user [PetarF](https://www.upwork.com/freelancers/~0122f809db1c461703).
 Feel free to contact me for details.
 
 ## ToDo 
 - Licence
-- Implement [Git LFS](https://git-lfs.com/)
+- Implement [Git LFS](https://git-lfs.com/) for large files (videos, figures, sketches, drawings, ...)
 - Create repos for projects 
 
 This markdown page is created using a [Dillinger] service. Maybe Ill use [StackEdit](https://stackedit.io/app#) in the future...
