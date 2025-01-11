@@ -12,7 +12,7 @@ The goal of this repository is to track my work related to the projects I have t
 | [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | [IN PROGRESS]() | 
 | IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING]() |
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
-| MLU Angle Calculator | [JavaScript] [GoogleSites] | ToDo |  [DONE]() | 
+| MLU Angle Calculator | [JavaScript] [GoogleSites] | [Link](https://sites.google.com/site/mluanglecalculator/angle-calculator) |  [DONE]() | 
 | ModBus Wireless Sensors | [Matlab] [Thinger.io] | ToDo |  [DONE]() | 
 | Android Barcode Scanner | [Java] | ToDo |  [DONE]() | 
 | Android Newsletter & Game App | [Java] [SQLite] [GoogleSheets] | ToDo |  [DONE]() | 
