@@ -19,16 +19,18 @@ The goal of this repository is to track my work related to the projects I have t
 | Android Widgets & Maps integration | Java | ToDo |  DONE | 
 | Notification Application for Online Marketing Service  | FullStack Application Ruby/Rails Postgress | ToDo |  DONE | 
 | Bluetooth e-Scooter Charger  | Electrical | ToDo |  DONE |
+| Falcam Stand Extender | Autodesk Inventor 3D | ToDo |  DONE |
 
 ✨**And more not listed here!!!** ✨
 
 ## [Upwork details](https://www.upwork.com/freelancers/~0122f809db1c461703)
 I have tackled [Upwork] job posting 
-applications as an user PetarF (user ID f9bd78e3).
+applications as an user [PetarF] (https://www.upwork.com/freelancers/~0122f809db1c461703).
 Feel free to contact me for details.
 
-## License
-ToDO
+## ToDo 
+Licence
+Implement [Git LFS](https://git-lfs.com/)
 
 This markdown page is created using a [Dillinger] service. Maybe Ill use [StackEdit](https://stackedit.io/app#) in the future...
 Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github)
