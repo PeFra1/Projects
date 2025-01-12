@@ -8,7 +8,7 @@ The goal of this repository is to track my work related to the projects I have t
 | Title/Details |Tech stack | Demo | Status | 
 | ------ | ------ | ------ |  ------ | 
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video](https://drive.google.com/file/d/1l8YDp_bUg8GAWAhOMr1eVnmFKw2PyPqr/view?usp=drive_link) | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
-| [Arduino Bootloader modification](https://www.upwork.com/nx/proposals/1872998257342664705) | [C/Arduino] | [Figure](https://drive.google.com/file/d/17EjCpqM3ggn_R3xNX1eTbopMMW9fhHmw/view?usp=drive_link) | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
+| [Arduino Bootloader modification](https://www.upwork.com/jobs/~021871125165750700459) | [C/Arduino] | [Figure](https://drive.google.com/file/d/17EjCpqM3ggn_R3xNX1eTbopMMW9fhHmw/view?usp=drive_link) | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
 | [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | [IN PROGRESS]() | 
 | IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING](https://gist.github.com/PeFra1/1aea38427cd31ec73d724308458fcf0f) |
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
