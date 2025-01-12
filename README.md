@@ -14,7 +14,7 @@ The goal of this repository is to track my work related to the projects I have t
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
 | MLU Angle Calculator | [JavaScript] [GoogleSites] | [Link](https://sites.google.com/site/mluanglecalculator/angle-calculator) |  [DONE]() | 
 | ModBus Wireless Sensors | [Matlab] [Thinger.io] | ToDo |  [DONE]() | 
-| Android Barcode Scanner | [Java] | ToDo |  [DONE]() | 
+| Android QR/Barcode Scanner | [Java] | ToDo |  [DONE]() | 
 | Android Newsletter & Game App | [Java] [SQLite] [GoogleSheets] | ToDo |  [DONE]() | 
 | Android Widgets & Maps integration | [Java] | ToDo |  [DONE]() | 
 | Notification Application for Online Marketing Service  | FullStack: [Ruby] [Rails] [PostgreSQL] | ToDo |  [DONE]() | 
