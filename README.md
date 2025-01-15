@@ -7,9 +7,10 @@ The goal of this repository is to track my work related to the projects I have t
 
 | Title/Details |Tech stack | Demo | Status | 
 | ------ | ------ | ------ |  ------ | 
+| [SpringBoot RabbitMQ PoC](https://www.upwork.com/jobs/Spring-Boot-REST-API-for-RabbitMQ_~021873669091556779918) | [Java] [Spring Boot] [RabbitMQ] [Docker] | [Video]() | [DONE]() | 
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video](https://drive.google.com/file/d/1l8YDp_bUg8GAWAhOMr1eVnmFKw2PyPqr/view?usp=drive_link) | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
 | [Arduino Bootloader modification](https://www.upwork.com/jobs/~021871125165750700459) | [C/Arduino] | [Figure](https://drive.google.com/file/d/17EjCpqM3ggn_R3xNX1eTbopMMW9fhHmw/view?usp=drive_link) | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
-| [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Video]() | [IN PROGRESS]() | 
+| [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Figure]() | [DONE](https://github.com/PeFra1/ffmpeg-g-cloud-run-function) | 
 | IP Radio development, setup and maintaining | FullStack: [Linux] [Shoutcast] [Liquidsoap] [PHP] | [radio.fer.hr](http://radio.fer.hr) | [ONGOING](https://gist.github.com/PeFra1/1aea38427cd31ec73d724308458fcf0f) |
 | Weather Station | [LabView] [C/Arduino] [Matlab] [SQL] | ToDo |  [DONE]() | 
 | MLU Angle Calculator | [JavaScript] [GoogleSites] | [Link](https://sites.google.com/site/mluanglecalculator/angle-calculator) |  [DONE]() | 
@@ -59,6 +60,9 @@ Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/
    [Ruby]: <https://www.ruby-lang.org/en/>
    [Rails]: <https://rubyonrails.org/>
    [PostgreSQL]: <https://dillinger.io/>
+   [Spring Boot]: <https://spring.io/projects/spring-boot> 
+   [RabbitMQ]: <https://www.rabbitmq.com/>
+   [Docker]: <https://www.docker.com/>
       
        
  
