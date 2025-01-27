@@ -7,7 +7,7 @@ The goal of this repository is to track my work related to the projects I have t
 
 | Title/Details |Tech stack | Demo | Status | 
 | ------ | ------ | ------ |  ------ | 
-| [REST API RabbitMQ PoC](https://www.upwork.com/jobs/Spring-Boot-REST-API-for-RabbitMQ_~021873669091556779918) | [Java] [Spring Boot] [RabbitMQ] [Docker] | [Video]() | [IN PROGRESS](https://github.com/PeFra1/spring-boot-rest-rabbitmq/tree/main) | 
+| [REST API RabbitMQ PoC](https://www.upwork.com/jobs/Spring-Boot-REST-API-for-RabbitMQ_~021873669091556779918) | [Java] [Spring Boot] [RabbitMQ] [Docker] | [Video]() | [DONE](https://github.com/PeFra1/spring-boot-rest-rabbitmq-maven) | 
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video](https://drive.google.com/file/d/1l8YDp_bUg8GAWAhOMr1eVnmFKw2PyPqr/view?usp=drive_link) | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
 | [Arduino Bootloader modification](https://www.upwork.com/jobs/~021871125165750700459) | [C/Arduino] | [Figure](https://drive.google.com/file/d/17EjCpqM3ggn_R3xNX1eTbopMMW9fhHmw/view?usp=drive_link) | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
 | [ffmpeg /w Google cloud run function](https://www.upwork.com/jobs/Use-Audacity-source-and-ffmpeg-clean-audio-data_~021872544683774191181) | [Python] | [Figure]() | [DONE](https://github.com/PeFra1/ffmpeg-g-cloud-run-function) | 
