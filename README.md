@@ -7,7 +7,8 @@ The goal of this repository is to track my work related to the projects I have t
 
 | Title/Details |Tech stack | Demo | Status | 
 | ------ | ------ | ------ |  ------ | 
-| [Scrapy Aliexpress](https://www.upwork.com/jobs/Scraper-for-AliExpress-Products-using-Scrapy_~021871028238447663770) | [Scrapy] [Python] | [Video]() | [InProgress](https://github.com/PeFra1/scrapy-aliexpress) | 
+| [Rapunzel Scraper](https://www.upwork.com/freelance-jobs/apply/Web-Data-Crawler-Needed-for-Shop-Information-Extraction_~021887777425361328760/) | [Selenium] [BeautifulSoup] [Python] | [Video]() | [INPROGRESS](https://github.com/PeFra1/rapunzel-scraper) | 
+| [Scrapy Aliexpress](https://www.upwork.com/jobs/Scraper-for-AliExpress-Products-using-Scrapy_~021871028238447663770) | [Scrapy] [Python] | [Video]() | [INPROGRESS](https://github.com/PeFra1/scrapy-aliexpress) | 
 | [REST API RabbitMQ PoC](https://www.upwork.com/jobs/Spring-Boot-REST-API-for-RabbitMQ_~021873669091556779918) | [Java] [Spring Boot] [RabbitMQ] [Docker] | [Video]() | [DONE](https://github.com/PeFra1/spring-boot-rest-rabbitmq-maven) | 
 | [Amazon Multithreaded Scraper](https://www.upwork.com/jobs/~021870212147258088337) | [Python] | [Video](https://drive.google.com/file/d/1l8YDp_bUg8GAWAhOMr1eVnmFKw2PyPqr/view?usp=drive_link) | [DONE](https://github.com/PeFra1/scrape-amazon-beautifulsoup-scrapeops) | 
 | [Arduino Bootloader modification](https://www.upwork.com/jobs/~021871125165750700459) | [C/Arduino] | [Figure](https://drive.google.com/file/d/17EjCpqM3ggn_R3xNX1eTbopMMW9fhHmw/view?usp=drive_link) | [DONE](https://github.com/PeFra1/arduino-bootloader) | 
@@ -65,6 +66,8 @@ Found some usuful tips on this [Stackoverflow thread](https://stackoverflow.com/
    [RabbitMQ]: <https://www.rabbitmq.com/>
    [Docker]: <https://www.docker.com/>
    [Scrapy]: <https://scrapy.org/>
+   [Selenium]: <https://www.selenium.dev/>
+   [BeautifulSoup]: <https://www.crummy.com/software/BeautifulSoup/>
    
       
        
